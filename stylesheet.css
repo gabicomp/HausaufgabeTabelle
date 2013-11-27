@@ -2,10 +2,10 @@
 
 /* =========== sections style ===================*/
 div {
-    border-bottom-left-radius: 9px;
+    /*border-bottom-left-radius: 9px;
     border-bottom-right-radius: 9px;
     border-top-left-radius: 9px;
-    border-top-right-radius: 9px;
+    border-top-right-radius: 9px;*/
     font-family: "Arial",  Helvetica, sans-serif; 
 }     
 #top {
@@ -31,7 +31,7 @@ div {
 }
 #content {
     background-color: #FFFFFF;
-     border: 2px solid  #99CCCC;
+    border: 2px solid  #99CCCC;
     float: right;
     margin-bottom: 1%;
     margin-right: 3%;
@@ -96,28 +96,28 @@ div {
     border: 1px solid #FFFFFF;
     color: #336666;
     text-align: center;
-    border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
+ /*   border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;*/
     width:16%;
 }
 
 #mytable td + td {
-	border-bottom-left-radius: 0px;
-    border-top-left-radius: 0px;
+/*	border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;*/
 	width:44%;
 }
 
 #mytable td + td + td {
-	border-bottom-left-radius: 0px;
-    border-top-left-radius: 0px;
+/*	border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px; */
 	width:10%;
 }
 
 
 #mytable td + td + td + td {
 
-	border-bottom-right-radius: 5px;
-	border-top-right-radius: 5px;
+/*	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px; */
 	width:10%;
 }
 
@@ -136,10 +136,10 @@ div {
 .linklist li{
 	
     background-color:  #99CCCC; 
-    border-bottom-left-radius: 5px;
+  /*  border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
     border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    border-top-right-radius: 5px;*/
     display:block;
     line-height: 135%;
     list-style-type: none;
