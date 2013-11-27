@@ -191,8 +191,10 @@ a:active {
 	float: right;
 	height: 60px;	
 	margin-right: 3%;
+	padding-top:14px;
 	position: relative;
 	width: 82.5%;
+	text-align: center;
 }
 
 
